@@ -6,6 +6,8 @@ Trabajo Práctico N°4: Maquetación de CV con HTML y CSS
 Este repositorio contiene el desarrollo del Currículum Vitae digital.
 El objetivo principal es aplicar los conocimientos de maquetado web con HTML y CSS, y utilizar herramientas como Git y GitHub para gestionar el proyecto.
 
+
+
 📌 Contenido del proyecto
 
 ✅ Una imagen de un CV que servirá como modelo para tu maquetado.
@@ -15,6 +17,7 @@ El objetivo principal es aplicar los conocimientos de maquetado web con HTML y C
 ✅ Al menos una hoja de estilos CSS. Para la realización de este trabajo, se permite y fomenta el uso libre de un framework de estilos.
 
 ✅ El resultado final debe ser una página web estática que represente visualmente el CV de la imagen modelo.
+
 
 
 📌 Recursos Utilizados
@@ -28,6 +31,7 @@ El objetivo principal es aplicar los conocimientos de maquetado web con HTML y C
 💡 Materialize CSS: https://materializecss.com/
 
 💡 Bulma: https://bulma.io/
+
 
 
 📅 Fecha límite de entrega: 17 de julio
