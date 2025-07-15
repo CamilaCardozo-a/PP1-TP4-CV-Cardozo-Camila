@@ -19,21 +19,6 @@ El objetivo principal es aplicar los conocimientos de maquetado web con HTML y C
 ✅ El resultado final debe ser una página web estática que represente visualmente el CV de la imagen modelo.
 
 
-
-📌 Recursos Utilizados
-
-💡 Bootstrap - https://getbootstrap.com/
-
-💡 W3Schools - HTML & CSS
-
-💡 Tailwind CSS: https://tailwindcss.com/
-
-💡 Materialize CSS: https://materializecss.com/
-
-💡 Bulma: https://bulma.io/
-
-
-
 📅 Fecha límite de entrega: 17 de julio
 
 📧 Enviar por mail a: guidovigiani@gmail.com
