@@ -15,7 +15,7 @@ El objetivo principal es aplicar los conocimientos de maquetado web con HTML y C
 ✅ Un archivo index.html con toda la estructura semántica de tu CV.
 
 ✅ Al menos una hoja de estilos CSS. Para la realización de este trabajo, se permite y fomenta el uso libre de un framework de estilos. 
-Framework elegido: Bootstrap
+   Framework elegido: Bootstrap
 
 ✅ El resultado final debe ser una página web estática que represente visualmente el CV de la imagen modelo.
 
